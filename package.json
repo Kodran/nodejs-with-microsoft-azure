@@ -1,0 +1,9 @@
+{
+  "name": "Nodejs-Deploying-test",
+  "description": "A nodejs application test",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x"
+  }
+}
